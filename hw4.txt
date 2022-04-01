@@ -9,5 +9,20 @@ switch (i)
     case 3:
         food="salad";
         break;
+    case 4:
+        food="pizza";
+        break;
+    case 5:
+        food="joke";
+        break;
+    case 6:
+        food="waffle";
+        break;
+    case 7:
+        food="donut";
+        break;
+    case 8:
+        food="dumplin";
+        break;
 }
 Console.WriteLine("Random recommendation "+food+".");
